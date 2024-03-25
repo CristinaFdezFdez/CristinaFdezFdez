@@ -40,4 +40,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/CristinaFdezFdez/MesonFernandez/assets/155740893/5b71a9ff-0e53-49c8-b676-371266b7e789" alt="FatAPI" width="40" height="40"/> </a>
 </p>
