@@ -9,27 +9,6 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
-<!-- Conectar -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <!-- Botón de LinkedIn -->
-  <a href="https://www.linkedin.com/in/cristina-fern%C3%A1ndez-fdez/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <!-- Botón de Correo Electrónico -->
-  <a href="mailto:cristina.98fdz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
-  </a>
-</p>
-
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristinaFdezFdez&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaFdezFdez&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 <!-- Lenguajes y Herramientas -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -93,6 +72,27 @@
 </p>
 
 
+<!-- GitHub Stats -->
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristinaFdezFdez&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaFdezFdez&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+
+<!-- Conectar -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <!-- Botón de LinkedIn -->
+  <a href="https://www.linkedin.com/in/cristina-fern%C3%A1ndez-fdez/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <!-- Botón de Correo Electrónico -->
+  <a href="mailto:cristina.98fdz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
+  </a>
+</p>
 
 <!-- Portfolio -->
 <h3 align="center">Check out my portfolio:</h3>
