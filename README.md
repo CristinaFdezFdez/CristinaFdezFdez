@@ -92,11 +92,7 @@
   </a>
 </p>
 
-<!-- GitHub Activity -->
-<h3 align="center">Recent GitHub Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CristinaFdezFdez&theme=rogue" alt="GitHub Activity">
-</p>
+
 
 <!-- Portfolio -->
 <h3 align="center">Check out my portfolio:</h3>
