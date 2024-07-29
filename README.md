@@ -6,7 +6,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
 <!-- Conectar -->
@@ -26,6 +26,8 @@
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CristinaFdezFdez&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaFdezFdez&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <!-- Lenguajes y Herramientas -->
@@ -93,7 +95,7 @@
 <!-- GitHub Activity -->
 <h3 align="center">Recent GitHub Activity:</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=CristinaFdezFdez&theme=rogue" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CristinaFdezFdez&theme=rogue" alt="GitHub Activity">
 </p>
 
 <!-- Portfolio -->
