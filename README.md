@@ -48,5 +48,5 @@
   <a href="https://portfoliocristina.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
   </a>
-  ![portfolio](https://github.com/user-attachments/assets/a212313d-5eb4-42b6-a7e9-20b71877ea76)
 </p>
+![portfolio](https://github.com/user-attachments/assets/9c9f9150-6b09-48f4-90be-a08b74205ef7)
