@@ -49,3 +49,4 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
   </a>
 </p>
+![portfolio](https://github.com/user-attachments/assets/2ef22835-747e-4f1a-8823-c85c3de3eb36)
