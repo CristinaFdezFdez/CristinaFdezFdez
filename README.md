@@ -42,3 +42,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/CristinaFdezFdez/MesonFernandez/assets/155740893/5b71a9ff-0e53-49c8-b676-371266b7e789" alt="FatAPI" width="40" height="40"/> </a>
 </p>
+
+
+![Captura de pantalla 2024-07-29 174551](https://github.com/user-attachments/assets/864f27f2-354b-454d-ab99-d8988673931e)
+
+
+
