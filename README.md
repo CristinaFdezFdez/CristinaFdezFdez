@@ -44,7 +44,6 @@
 </p>
 
 
-![Captura de pantalla 2024-07-29 174551](https://github.com/user-attachments/assets/864f27f2-354b-454d-ab99-d8988673931e)
 
 
 
