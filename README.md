@@ -4,9 +4,9 @@
 <!-- Descripción Personal -->
 <p align="center">Welcome to my GitHub! I love coding and building awesome projects.</p>
 
-<!-- Banner -->
+<!-- GIF -->
 <p align="center">
-  <img src="https://sandbox:/mnt/data/A_stylish_and_modern_GitHub_banner_for_a_web_devel.png" width="100%" alt="GitHub Banner">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
 <!-- Lenguajes y Herramientas -->
