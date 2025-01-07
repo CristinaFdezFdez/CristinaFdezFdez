@@ -5,7 +5,10 @@
 <p align="center">Welcome to my GitHub! I love coding and building awesome projects.</p>
 
 <!-- GIF -->
-![Desarrollo de software](https://media.giphy.com/media/pqMSyHmekA1Qe7Utp7/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/pqMSyHmekA1Qe7Utp7/giphy.gif" alt="Desarrollo de software">
+</div>
+
 
 
 <!-- Lenguajes y Herramientas -->
