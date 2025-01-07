@@ -74,13 +74,6 @@
 </p>
 
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaFdezFdez&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-
 <!-- Conectar -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
