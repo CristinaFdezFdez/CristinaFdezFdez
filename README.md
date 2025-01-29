@@ -4,7 +4,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1QJ_7geKB_dlt_kwm6D_XGQ8_CVSomzs-" 
        alt="Banner">
 </div>
-<h1 align="center">Hi 👋, I'm Cristina Fernandez</h1>
 <h3 align="center">A passionate Full Stack Developer who loves building innovative solutions 💻</h3>
 
 <!-- Descripción Personal -->
