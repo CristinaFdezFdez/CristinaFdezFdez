@@ -4,9 +4,9 @@
 <!-- Descripción Personal -->
 <p align="center">Welcome to my GitHub! I am passionate about coding and building impactful projects that solve real-world problems.</p>
 
-<!-- GIF -->
+<!-- BANNER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/pqMSyHmekA1Qe7Utp7/giphy.gif" alt="Desarrollo de software" width="480" height="480">
+  <img src="(https://drive.google.com/file/d/1QJ_7geKB_dlt_kwm6D_XGQ8_CVSomzs-/view?usp=sharing)" alt="Desarrollo de software" width="480" height="480">
 </div>
 
 <!-- Lenguajes y Herramientas -->
