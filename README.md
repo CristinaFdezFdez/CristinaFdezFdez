@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Cristina Fernandez</h1>
-<h3 align="center">A passionate Full Stack Developer who loves building innovative solutions 💻</h3>
-
-<!-- Descripción Personal -->
-<p align="center">Welcome to my GitHub! I am passionate about coding and building impactful projects that solve real-world problems.</p>
 
 <!-- BANNER -->
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1QJ_7geKB_dlt_kwm6D_XGQ8_CVSomzs-" 
        alt="Banner">
 </div>
+<h1 align="center">Hi 👋, I'm Cristina Fernandez</h1>
+<h3 align="center">A passionate Full Stack Developer who loves building innovative solutions 💻</h3>
 
+<!-- Descripción Personal -->
+<p align="center">Welcome to my GitHub! I am passionate about coding and building impactful projects that solve real-world problems.</p>
 
 <!-- Lenguajes y Herramientas -->
 <h3 align="center">💻 My Tech Stack:</h3>
