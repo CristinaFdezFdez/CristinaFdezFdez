@@ -71,26 +71,30 @@
   </a>
 </p>
 
-<!-- Conectar -->
-<h3 align="center">📫 Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/cristina-fern%C3%A1ndez-fdez/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:cristina.98fdz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
-  </a>
-</p>
-
-<!-- Portfolio -->
-<h3 align="center">🌐 Check out my Portfolio:</h3>
-<p align="center">
-  <a href="https://portfoliocristina.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+<!-- Conectar y Portfolio en dos columnas -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>📫 Connect with me:</h3>
+      <a href="https://www.linkedin.com/in/cristina-fern%C3%A1ndez-fdez/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <br>
+      <a href="mailto:cristina.98fdz@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
+      </a>
+    </td>
+    <td align="center">
+      <h3>🌐 Check out my Portfolio:</h3>
+      <a href="https://portfoliocristina.netlify.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CristinaFdezFdez&style=for-the-badge" alt="Profile Views">
 </p>
+
