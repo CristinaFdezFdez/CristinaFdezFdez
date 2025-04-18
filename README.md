@@ -1,9 +1,4 @@
-
-<!-- BANNER -->
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1QJ_7geKB_dlt_kwm6D_XGQ8_CVSomzs-" 
-       alt="Banner">
-</div>
+[![Hey, I'm Cristina!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f649&text=Hey%2C%20I%27m%20Cristina%21)](https://pimp-my-readme-next.vercel.app)
 <h3 align="center">A passionate Full Stack Developer who loves building innovative solutions 💻</h3>
 
 <!-- Descripción Personal -->
